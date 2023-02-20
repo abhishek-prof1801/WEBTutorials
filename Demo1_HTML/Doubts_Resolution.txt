@@ -1,0 +1,11 @@
+1)Digital vs Analog
+2)Wht pdf/text file open in browser
+
+Info:
+Web page-->Anything that ipens on browser as unit
+
+Web site-->Collection of web pages and other related content
+
+Web server-->Hosts a website/holds our pages
+
+Search engines-->Crawlers to facilitate quick searching!
